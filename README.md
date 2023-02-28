@@ -15,6 +15,18 @@ Named directories ,printf
 Reliability
 Does the system do what it was designed to do?
 
+Availability
+What portion of the time is the system working?
+
+Security
+
+Mean time to Failure MTTF . Mean time to Repair
+Can the system be compromised by an attacker?
+
+Privacy
+Data is acceptable only to authorized users
+
+
 
 3
 
